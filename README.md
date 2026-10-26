@@ -1,3 +1,3 @@
 # Punto-de-juego
 
-hola q tal
+# **Zaid trabaja un poco y ayuda**
