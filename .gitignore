@@ -1,0 +1,9 @@
+# Configuración local del editor
+.vscode/
+.idea/
+
+# ZIP descargados
+*.zip
+
+# Credenciales y configuración local (fases siguientes)
+.env
