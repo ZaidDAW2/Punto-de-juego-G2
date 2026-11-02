@@ -51,8 +51,8 @@ Comprobación de respuesta:
 
 ## Forma de trabajo 
 
-+ La rama master contiene la version comun
-+ Cada cambio se hace en una rama propia y se une con pull request hacia master
++ La rama main contiene la version comun
++ Cada cambio se hace en una rama propia y se une con pull request hacia main
 + Commits **pequeños** con comentario explicativo
 + Despues de cada git pull, ejecutar el script de despliegue para actualizar Apache
 
