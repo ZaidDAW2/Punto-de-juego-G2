@@ -3,7 +3,7 @@
 ## Integrantes:
 
 - Pol · [evidencias](docs/evidencias/Pol/evidencias.md)
-- Joel Vega · [evidencias](docs/evidencias/joel/evidencias.md)
+- Joel Vega · [evidencias](docs/evidencias/Joel/evidencias.md)
 - Zaid (Lider) · [evidencias](docs/evidencias/Zaid/evidencias.md)
 
 ## Estructura
