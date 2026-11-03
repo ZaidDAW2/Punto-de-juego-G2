@@ -2,9 +2,9 @@
 
 ## Integrantes:
 
-- Pol · [evidencias](docs/evidencias/Pol/README.md)
-- Joel Vega · [evidencias](docs/evidencias/Joel/README.md)
-- Zaid (Lider) · [evidencias](docs/evidencias/Zaid/README.md)
+- Pol · [evidencias](docs/evidencias/Pol/evidencias.md)
+- Joel Vega · [evidencias](docs/evidencias/joel/evidencias.md)
+- Zaid (Lider) · [evidencias](docs/evidencias/Zaid/evidencias.md)
 
 ## Estructura
 - `portal/` — archivos de la web; es lo único que se copia a Apache
